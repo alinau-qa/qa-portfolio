@@ -52,3 +52,5 @@ In the mobile application of an online store, when a user taps the “❤” (he
 ### Step 6
 **Action:** Verify that the selected product is present in the Favorites list  
 **Expected result:** The product is successfully added and displayed in the Favorites section  
+
+---
